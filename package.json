@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "dotenv": "^18.0.3",
+    "drizzle-orm": "^0.45.3",
+    "framer-motion": "^13.4.3",
+    "lucide-react": "^1.48.0",
+    "pg": "^8.23.0",
+    "tailwind-merge": "^3.7.0"
+  },
+  "devDependencies": {
+    "@types/pg": "^8.23.1",
+    "drizzle-kit": "^0.31.11"
+  }
+}
